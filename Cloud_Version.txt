@@ -1,5 +1,5 @@
 1.1.3
-https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9qeGpqeHktbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvd3luZnpfdF9vZG1haWxfY24vRVYyaHJUelNES2REaW4xNEhOSDN0TU1CY0U4b2hPZkFuZUxhUEZrZFYzczY1UT9lPTA4UFVOMA==.dll
+https://wynfz-1301445780.cos.ap-chengdu.myqcloud.com/Impulse.dll
 1.0.3
-https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9qeGpqeHktbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvd3luZnpfdF9vZG1haWxfY24vRVVYUWdZeFVCNlpMbXBVMnVHX21xYjRCanBxLTlXdHVUdGtKbV9fWHQxX2dyUT9lPVBuTXo4dw==.dll
+https://wynfz-1301445780.cos.ap-chengdu.myqcloud.com/ImpulseEssential.dll
 ONLINE
